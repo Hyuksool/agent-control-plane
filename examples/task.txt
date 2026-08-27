@@ -1,0 +1,1 @@
+Inspect this repository and return a plan. This file is for the protocol smoke only; the included bridge does not call an LLM or edit source code.
